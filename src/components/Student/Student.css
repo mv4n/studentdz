@@ -1,0 +1,14 @@
+.student-item {
+    display: flex;
+    align-items: center;
+    gap: 30px;
+}
+.student-photo-wrapper {
+    overflow: hidden;
+    width: 150px;
+    height: 150px;
+}
+
+.student-photo {
+    object-fit: cover;
+}
